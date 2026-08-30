@@ -1,0 +1,6 @@
+opencv-python
+numpy
+scipy
+filterpy
+PySide6
+pyinstaller
